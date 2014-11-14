@@ -1,4 +1,3 @@
 GenericConstraint
 =================
-
-Example Generic Constraint in C#
+Example Generic Constraint. Using where key work to requiremnt parameter T have Type is Employees. And using Generic in method. in this have three method Add Employees, Find Employees with name, and Print info....
