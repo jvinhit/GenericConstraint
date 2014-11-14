@@ -1,0 +1,6 @@
+E:\Projects\C#\GenericAndConstraint\GenericAndConstraint\bin\Debug\GenericAndConstraint.exe.config
+E:\Projects\C#\GenericAndConstraint\GenericAndConstraint\bin\Debug\GenericAndConstraint.exe
+E:\Projects\C#\GenericAndConstraint\GenericAndConstraint\bin\Debug\GenericAndConstraint.pdb
+E:\Projects\C#\GenericAndConstraint\GenericAndConstraint\obj\Debug\GenericAndConstraint.csprojResolveAssemblyReference.cache
+E:\Projects\C#\GenericAndConstraint\GenericAndConstraint\obj\Debug\GenericAndConstraint.exe
+E:\Projects\C#\GenericAndConstraint\GenericAndConstraint\obj\Debug\GenericAndConstraint.pdb
